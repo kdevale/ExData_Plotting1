@@ -1,3 +1,19 @@
+## Background
+This is an assignment in plotting and is the first course project in 
+Exploratory Data Analysis Coursera Course.  The assignment details are below.  
+
+##Instructions
+<ul>
+<li>Download the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> zip file </li>
+<li>Unzip the data</li>
+<li>Set current working directory to the directory that contains the unzipped data file</li>
+<li>Install packages dplyr and datasets</li>
+<li> run the 4 R files to create the 4 plots in the current working directory
+<ul> <li>source("plot1.R")</li>
+<li>source("plot2.R")</li>
+<li>source("plot3.R")</li>
+<li>source("plot4.R")</li></ul></ul>
+
 ## Introduction
 
 This assignment uses data from
